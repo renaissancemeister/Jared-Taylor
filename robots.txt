@@ -1,0 +1,6 @@
+Sitemap: http://www.jaredtaylor.org/sitemap.xml
+Sitemap: http://www.jaredtaylor.org/news-sitemap.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
