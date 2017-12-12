@@ -1,1 +1,1 @@
-Sitemap: https://jaredtaylor.netlify.com/sitemap.xml
+Sitemap: https://archive.jaredtaylor.org/sitemap.xml
